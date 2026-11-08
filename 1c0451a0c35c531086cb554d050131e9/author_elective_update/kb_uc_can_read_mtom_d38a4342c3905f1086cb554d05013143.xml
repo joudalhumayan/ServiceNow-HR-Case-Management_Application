@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_read_mtom">
+    <kb_uc_can_read_mtom action="DELETE">
+        <kb_knowledge_base display_value="HR Case ">d22a8702c3905f1086cb554d05013197</kb_knowledge_base>
+        <sys_class_name>kb_uc_can_read_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-03 15:31:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d38a4342c3905f1086cb554d05013143</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Case .Any User</sys_name>
+        <sys_package display_value="HR Case Management" source="x_1897293_hr_cas_0">1c0451a0c35c531086cb554d050131e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Case Management">1c0451a0c35c531086cb554d050131e9</sys_scope>
+        <sys_update_name>kb_uc_can_read_mtom_d38a4342c3905f1086cb554d05013143</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-03 15:31:57</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </kb_uc_can_read_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="HR Case Management">1c0451a0c35c531086cb554d050131e9</application>
+        <file_path/>
+        <instance_id>ed2f441aebbb0e94cbdefceacad0cde3</instance_id>
+        <instance_name>dev285566</instance_name>
+        <name>kb_uc_can_read_mtom_d38a4342c3905f1086cb554d05013143</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_read_mtom"><kb_uc_can_read_mtom action="INSERT_OR_UPDATE"><kb_knowledge_base display_value="HR Case ">d22a8702c3905f1086cb554d05013197</kb_knowledge_base><sys_class_name>kb_uc_can_read_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-11-03 15:31:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d38a4342c3905f1086cb554d05013143</sys_id><sys_mod_count>0</sys_mod_count><sys_name>HR Case .Any User</sys_name><sys_package display_value="HR Case Management" source="x_1897293_hr_cas_0">1c0451a0c35c531086cb554d050131e9</sys_package><sys_policy/><sys_scope display_value="HR Case Management">1c0451a0c35c531086cb554d050131e9</sys_scope><sys_update_name>kb_uc_can_read_mtom_d38a4342c3905f1086cb554d05013143</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-11-03 15:31:57</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></kb_uc_can_read_mtom></record_update>]]></payload>
+        <payload_hash>-1407279498</payload_hash>
+        <record_name>HR Case .Any User</record_name>
+        <reverted_from/>
+        <source>b809edecc35c531086cb554d050131a3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-03 15:31:57</sys_created_on>
+        <sys_id>578a4342c3905f1086cb554d05013148</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1a209dbcf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-03 15:31:57</sys_updated_on>
+        <type>Who Can Read Knowledge Base</type>
+        <update_guid>d38a434208905f104337c56b95141e47</update_guid>
+        <update_guid_history>d38a434208905f104337c56b95141e47:-1407279498</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="HR Case .Any User">2bdb87c2c3905f1086cb554d050131af</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-03 15:37:43</sys_created_on>
+        <sys_db_object display_value="" name="kb_uc_can_read_mtom">kb_uc_can_read_mtom</sys_db_object>
+        <sys_id>43361c0d3d0946ce9210c4b6bf8b8699</sys_id>
+        <sys_metadata>d38a4342c3905f1086cb554d05013143</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Case .Any User</sys_name>
+        <sys_package display_value="HR Case Management" source="x_1897293_hr_cas_0">1c0451a0c35c531086cb554d050131e9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="HR Case Management">1c0451a0c35c531086cb554d050131e9</sys_scope>
+        <sys_scope_delete display_value="">b486f4cc77c549009dd6b21627a04000</sys_scope_delete>
+        <sys_update_name>kb_uc_can_read_mtom_d38a4342c3905f1086cb554d05013143</sys_update_name>
+        <sys_update_version display_value="kb_uc_can_read_mtom_d38a4342c3905f1086cb554d05013143">578a4342c3905f1086cb554d05013148</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-03 15:37:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="kb_uc_can_contribute_mtom">
+    <kb_uc_can_contribute_mtom action="INSERT_OR_UPDATE">
+        <kb_knowledge_base display_value="HR Case Resolver">612c8fc2c3905f1086cb554d0501312f</kb_knowledge_base>
+        <sys_class_name>kb_uc_can_contribute_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-08 13:29:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>276ed437c39c971086cb554d050131a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Case Resolver.HR Case Admins</sys_name>
+        <sys_package display_value="HR Case Management" source="x_1897293_hr_cas_0">1c0451a0c35c531086cb554d050131e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Case Management">1c0451a0c35c531086cb554d050131e9</sys_scope>
+        <sys_update_name>kb_uc_can_contribute_mtom_276ed437c39c971086cb554d050131a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-08 13:29:18</sys_updated_on>
+        <user_criteria display_value="HR Case Admins">ca9907cec3505f1086cb554d050131b6</user_criteria>
+    </kb_uc_can_contribute_mtom>
+</record_update>
