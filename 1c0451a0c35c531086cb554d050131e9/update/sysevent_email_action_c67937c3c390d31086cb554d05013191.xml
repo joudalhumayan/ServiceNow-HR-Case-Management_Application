@@ -41,7 +41,7 @@
         <mandatory>false</mandatory>
         <message/>
         <message_html><![CDATA[<p>The following HR Case has been cancelled:</p>
-<p>Case: ${URI_REF}<br>Short Description: ${short_description}<br>Caller: ${caller_id}</p>]]></message_html>
+<p>Case: ${URI_REF}<br>Short Description: ${short_description}<br>Caller: ${caller}</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>HR Case Cancelled Notification</name>
@@ -63,7 +63,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c67937c3c390d31086cb554d05013191</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>HR Case Cancelled Notification</sys_name>
         <sys_overrides/>
         <sys_package display_value="HR Case Management" source="x_1897293_hr_cas_0">1c0451a0c35c531086cb554d050131e9</sys_package>
@@ -71,7 +71,7 @@
         <sys_scope display_value="HR Case Management">1c0451a0c35c531086cb554d050131e9</sys_scope>
         <sys_update_name>sysevent_email_action_c67937c3c390d31086cb554d05013191</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-11-06 21:34:01</sys_updated_on>
+        <sys_updated_on>2026-11-14 16:38:23</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
